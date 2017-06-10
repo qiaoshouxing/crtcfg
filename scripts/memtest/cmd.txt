@@ -1,0 +1,7 @@
+exit
+quit
+enable
+admin
+configure terminal
+dns-proxy domain ip www.baidu.com ip 1.1.1.1
+no dns-proxy domain ip wwww.baidu.com ip 1.1.1.1
